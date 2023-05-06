@@ -1,14 +1,14 @@
 var names=new Array();
-names[0]="Jacob";
-names[1]="JohnnyBoy";
-names[2]="JennaMarbles";
-names[3]="JsonVorheez";
-names[4]="pawl";
-names[5]="franklinclinton";
-names[6]="larrybird";
+names[0]="Michael Townley";
+names[1]="Johnny In My Head";
+names[2]="James Pumphrey";
+names[3]="Json Vorheez";
+names[4]="trevor phllips";
+names[5]="franklin clinton";
+names[6]="larry bird";
 names[7]="obama";
 names[8]="kachika";
-names[9]="jimhalpert";
+names[9]="jim halpert";
 
 
 for (var i = 0; i < names.length; i++) {

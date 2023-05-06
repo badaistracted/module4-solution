@@ -8,7 +8,7 @@ names[5]="franklinclinton";
 names[6]="larrybird";
 names[7]="obama";
 names[8]="kachika";
-names[9]="jim halpert";
+names[9]="jimhalpert";
 
 
 for (var i = 0; i < names.length; i++) {
